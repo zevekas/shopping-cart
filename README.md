@@ -22,5 +22,6 @@ A simple shopping cart application built with React library
 
 ## Getting started
 
+```zsh
 npm insall
 npm run dev
